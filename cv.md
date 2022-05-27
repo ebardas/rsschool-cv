@@ -28,3 +28,5 @@ JavaScript ![40%](https://progress-bar.dev/40)
 ## Experience
 - [CV](https://ebardas.github.io/rsschool-cv/cv) - Markdown and Git 
 
+## Languages
+- English - A2
