@@ -5,7 +5,7 @@
 
 ## Contacts
 **email**: ebardas13@gmail.com  
-**telegram**: @ebardas
+**telegram**: @ebardas  
 
 ## About me
 I aim to become a junior frontend developer.  
@@ -29,11 +29,10 @@ JavaScript
 ## Experience
 - [CV](https://ebardas.github.io/rsschool-cv/cv) - Markdown and Git 
 
-## Courses and education 
+## Course
 - [Udacity](https://learn.udacity.com/) - Intro to HTML and CSS 
 - [freeCodeCamp](https://www.freecodecamp.org/learn)- Javascript Algorithms and Data Structures
 - [Yauhen Kavalchuk](https://github.com/YauhenKavalchuk/css3) - CSS3 Basics and FlexBox
-
 
 ## Languages
 - English - A2
