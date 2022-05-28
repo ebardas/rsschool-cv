@@ -4,16 +4,17 @@
 **Surname**: Bardas
 
 ## Contacts
-**email**: ebardas13@gmail.com
+**email**: ebardas13@gmail.com  
 **telegram**: @ebardas
 
 ## About me
-I aim to become a junior frontend developer. I love learning and evolve myself. 
+I aim to become a junior frontend developer.  
+I love learning and evolve my skills. 
 
 ## Skills
-HTML ![80%](https://progress-bar.dev/90)
-CSS  ![50%](https://progress-bar.dev/50)
-JavaScript ![40%](https://progress-bar.dev/40)
+HTML  
+CSS  
+JavaScript  
 
 ## Code example 
 ```
@@ -27,6 +28,12 @@ JavaScript ![40%](https://progress-bar.dev/40)
 ```  
 ## Experience
 - [CV](https://ebardas.github.io/rsschool-cv/cv) - Markdown and Git 
+
+## Courses and education 
+- [Udacity](https://learn.udacity.com/) - Intro to HTML and CSS 
+- [freeCodeCamp](https://www.freecodecamp.org/learn)- Javascript Algorithms and Data Structures
+- [Yauhen Kavalchuk](https://github.com/YauhenKavalchuk/css3) - CSS3 Basics and FlexBox
+
 
 ## Languages
 - English - A2
