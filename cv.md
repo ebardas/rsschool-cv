@@ -15,13 +15,14 @@ JavaScript
 
 ## Code example 
 ```
-  let sum = 0 
-  for(let i = 1; i < 15; i++){
-    if((i%3 == 0)||(i%5 == 0)){
-      sum+= i
-    }  
+  function factorial(n){
+    if(n == 0){
+        return 1;
+    }
+    else {
+        return (n * factorial(n-1))
+    }
   }
-  console.log(sum)
 ```  
 ## Experience
 - [CV](https://ebardas.github.io/rsschool-cv/cv) - Markdown and Git 
