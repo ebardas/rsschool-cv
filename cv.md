@@ -1,11 +1,9 @@
 # CV
-## Personal data
-**Name**: Evgenia  
-**Surname**: Bardas
+## Evgenia Bardas
 
 ## Contacts
 **email**: ebardas13@gmail.com  
-**telegram**: @ebardas  
+ @ebardas  
 
 ## About me
 I aim to become a junior frontend developer.  
