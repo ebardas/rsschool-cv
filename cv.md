@@ -2,8 +2,8 @@
 ## Evgenia Bardas
 
 ## Contacts
-**email**: ebardas13@gmail.com  
- @ebardas  
+![Email icon](images/email.png)ebardas13@gmail.com  
+![Telegram icon](images/telegram.png)@ebardas  
 
 ## About me
 I aim to become a junior frontend developer.  
