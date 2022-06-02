@@ -1,9 +1,9 @@
-# CV
-## Evgenia Bardas
+
+# Evgenia Bardas
 
 ## Contacts
 ![Email icon](images/email.png) ebardas13@gmail.com  
-![Telegram icon](images/telegram.png) @ebardas  
+![Telegram icon](images/telegram.png) [@ebardas](https://t.me/ebardas)  
 
 ## About me
 I am highly motivated to become a junior frontend developer. I am teamworker and like evolve my skills. 
