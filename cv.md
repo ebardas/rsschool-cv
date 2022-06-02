@@ -6,8 +6,7 @@
 ![Telegram icon](images/telegram.png)@ebardas  
 
 ## About me
-I aim to become a junior frontend developer.  
-I love learning and evolve my skills. 
+I am highly motivated to become a junior frontend developer. I am teamworker and like evolve my skills. 
 
 ## Skills
 HTML  
