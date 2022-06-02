@@ -28,8 +28,8 @@ JavaScript
 - [CV](https://ebardas.github.io/rsschool-cv/cv) - Markdown and Git 
 
 ## Course
-- [Udacity](https://learn.udacity.com/) - Intro to HTML and CSS 
-- [freeCodeCamp](https://www.freecodecamp.org/learn)- Javascript Algorithms and Data Structures
+- [Udacity](https://learn.udacity.com/) - Intro to HTML and CSS - In progress
+- [freeCodeCamp](https://www.freecodecamp.org/learn)- Javascript Algorithms and Data Structures - In progress
 - [Yauhen Kavalchuk](https://github.com/YauhenKavalchuk/css3) - CSS3 Basics and FlexBox
 
 ## Languages
